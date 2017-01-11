@@ -74,4 +74,4 @@ Once you change owners to 2 in standalone-ha.xml, then all the records should be
 
 So even with `local=true` you will see the same size on both nodes like 
 without `local=true`.
- 
+ # keycloak-session-info
